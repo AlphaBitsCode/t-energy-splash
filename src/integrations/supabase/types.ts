@@ -273,6 +273,36 @@ export type Database = {
         }
         Relationships: []
       }
+      newsletter_signups: {
+        Row: {
+          campaign_name: string
+          country: string | null
+          created_at: string
+          email: string
+          id: string
+          name: string | null
+          updated_at: string
+        }
+        Insert: {
+          campaign_name?: string
+          country?: string | null
+          created_at?: string
+          email: string
+          id?: string
+          name?: string | null
+          updated_at?: string
+        }
+        Update: {
+          campaign_name?: string
+          country?: string | null
+          created_at?: string
+          email?: string
+          id?: string
+          name?: string | null
+          updated_at?: string
+        }
+        Relationships: []
+      }
       preorders: {
         Row: {
           address: string
