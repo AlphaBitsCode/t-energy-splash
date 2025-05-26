@@ -12,7 +12,7 @@ const GenesisSection = () => {
           
           <div className="space-y-6 text-lg md:text-xl text-gray-300 leading-relaxed mb-8">
             <p>
-              Inspired by traditional agriculture processes and thermal energy innovations, our Founder, <br />
+              Inspired by traditional agriculture processes and thermal energy innovations, <br />
               <a 
                 href="https://www.kentnguyen.com/?utm_source=tenergy&utm_medium=splash&utm_campaign&debug" 
                 target="_blank" 
@@ -23,7 +23,7 @@ const GenesisSection = () => {
             </p>
             <p>
               From DIY components to proven concepts, this journey explores <span className="text-cyan-400 font-semibold">new scientific frontiers</span>.
-              And we are still at the beginning of something much bigger, the future is bright.
+              And we are still at the beginning of something much bigger, the future is ... Thermal.
             </p>
           </div>
 

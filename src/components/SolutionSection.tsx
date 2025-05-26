@@ -22,7 +22,8 @@ const SolutionSection = () => {
             </p>
             <p className="text-lg md:text-xl leading-relaxed">
               A technology emerges that could dramatically reduce the global energy bill – 
-              potentially cutting energy costs <span className="text-green-400 font-bold">up to 50% annually</span> 
+              potentially cutting energy costs <span className="text-green-400 font-bold">up to 50% annually</span>
+              <br />
               for some applications.
             </p>
           </div>

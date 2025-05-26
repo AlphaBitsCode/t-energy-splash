@@ -16,6 +16,7 @@ const ProblemSection = () => {
             </p>
             <p>
               There's a growing demand for <span className="text-cyan-400 font-semibold">off-grid solutions</span> 
+              <br />
               that don't compromise our planet's future.
             </p>
           </div>
