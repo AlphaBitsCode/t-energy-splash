@@ -12,19 +12,18 @@ const GenesisSection = () => {
           
           <div className="space-y-6 text-lg md:text-xl text-gray-300 leading-relaxed mb-8">
             <p>
-              Born from observing traditional processes and inspired by pioneering innovations, our founder,<br />
+              Inspired by traditional agriculture processes and thermal energy innovations, our Founder, <br />
               <a 
                 href="https://www.kentnguyen.com/?utm_source=tenergy&utm_medium=splash&utm_campaign&debug" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-white font-semibold hover:text-cyan-400 transition-colors duration-300 underline decoration-cyan-400/30 hover:decoration-cyan-400"
-              >Kent Nguyen</a>
-              <br />
-              a serial technologist and inventor, began tinkering.
+              >Kent Nguyen</a>,
+              a tech entrepreneur, started working on the Sand Battery solution in October 2022.
             </p>
             <p>
-              Proving concepts from simple origins, this is a journey into 
-              <span className="text-cyan-400 font-semibold"> uncharted science frontiers</span>.
+              From DIY components to proven concepts, this journey explores <span className="text-cyan-400 font-semibold">new scientific frontiers</span>.
+              And we are still at the beginning of something much bigger, the future is bright.
             </p>
           </div>
 

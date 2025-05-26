@@ -43,7 +43,7 @@ const ApplicationsSection = () => {
             Transformative Applications
           </h2>
           <p className="text-xl text-gray-300">
-            Imagine the possibilities
+            Just imagine the possibilities...
           </p>
         </div>
         

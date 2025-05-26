@@ -45,12 +45,6 @@ const ThermalBatteriesSection = () => {
             </p>
           </div>
         </div>
-        
-        <div className="text-center mt-12 animate-fade-in animation-delay-600">
-          <p className="text-2xl text-white font-light">
-            These are <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent font-bold">Thermal Batteries</span>
-          </p>
-        </div>
       </div>
     </section>
   );
