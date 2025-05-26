@@ -16,7 +16,7 @@ const SpotlightLogo = () => {
           
           {/* Logo */}
           <img 
-            src="/lovable-uploads/c2014a9e-8370-4e28-86f5-28ac6488b11d.png" 
+            src="/images/logo_white.png" 
             alt="Thermion Energy" 
             className="relative z-10 w-32 h-32 md:w-40 md:h-40 object-contain filter drop-shadow-2xl"
           />
