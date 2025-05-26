@@ -19,7 +19,7 @@ const HeroSection = () => {
           Off-grid Zero-Emission
           <br />
           <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-            Cooling Solutions
+            Heating & Cooling Solutions
           </span>
         </h1>
         
