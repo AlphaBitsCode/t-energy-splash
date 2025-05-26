@@ -63,9 +63,8 @@ const NewsletterSignup = () => {
               Stay Chilled, Stay Tuned
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Be among the first to witness the thermal revolution, in Bien Hoa city, Vietnam.
-              <br />
-              July 2025.
+              Be among the first to witness the thermal revolution,
+              <br />July 2025 @ Bien Hoa city, Vietnam.
             </p>
             
             <form onSubmit={handleSubmit} className="max-w-md mx-auto">
