@@ -19,7 +19,7 @@ const GenesisSection = () => {
                 rel="noopener noreferrer"
                 className="text-white font-semibold hover:text-cyan-400 transition-colors duration-300 underline decoration-cyan-400/30 hover:decoration-cyan-400"
               >Kent Nguyen</a>,
-              a tech entrepreneur, started working on the Sand Battery solution in October 2022.
+              a software-developer-turn-tech-entrepreneur, started working on the Sand Battery solution in October 2022.
             </p>
             <p>
               From DIY components to proven concepts, this journey explores <span className="text-cyan-400 font-semibold">new scientific frontiers</span>.
