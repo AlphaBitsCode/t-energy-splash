@@ -12,15 +12,14 @@ const GenesisSection = () => {
           
           <div className="space-y-6 text-lg md:text-xl text-gray-300 leading-relaxed mb-8">
             <p>
-              Born from observing traditional processes and inspired by pioneering innovations, 
-              our founder, <a 
+              Born from observing traditional processes and inspired by pioneering innovations, our founder,<br />
+              <a 
                 href="https://www.kentnguyen.com/?utm_source=tenergy&utm_medium=splash&utm_campaign&debug" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-white font-semibold hover:text-cyan-400 transition-colors duration-300 underline decoration-cyan-400/30 hover:decoration-cyan-400"
-              >
-                Kent Nguyen
-              </a>, 
+              >Kent Nguyen</a>
+              <br />
               a serial technologist and inventor, began tinkering.
             </p>
             <p>
