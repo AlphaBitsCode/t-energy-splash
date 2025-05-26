@@ -15,7 +15,7 @@ const SolutionSection = () => {
           <div className="space-y-6 text-gray-300 animate-fade-in animation-delay-200">
             <p className="text-lg md:text-xl leading-relaxed">
               What if energy wasn't just <em className="text-white font-semibold">consumed</em>, 
-              but <em className="text-cyan-400 font-semibold">held</em>?
+              but <em className="text-cyan-400 font-semibold">stored</em>?
             </p>
             <p className="text-lg md:text-xl leading-relaxed">
               Stored not in volatile fuels, but in <span className="text-blue-400 font-semibold">silent, passive forms</span>.
@@ -29,7 +29,12 @@ const SolutionSection = () => {
           
           <div className="text-center animate-fade-in animation-delay-400">
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 rounded-2xl p-8 border border-cyan-500/20 backdrop-blur-sm">
-              <h3 className="text-2xl font-bold text-white mb-4">Thermal Energy</h3>
+              <img 
+                src="https://blog.kentnguyen.com/content/images/size/w900/2025/05/IMG_20250523_151253-1.jpg" 
+                alt="Sand Battery & ICE Battery first prototypes" 
+                className="w-full max-w-md mx-auto rounded-lg shadow-2xl"
+              />
+              <h3 className="text-2xl font-bold text-white mb-4">Thermal Battery</h3>
               <p className="text-cyan-400 text-lg">Captured and released on demand</p>
             </div>
           </div>
