@@ -19,7 +19,7 @@ const GenesisSection = () => {
                 rel="noopener noreferrer"
                 className="text-white font-semibold hover:text-cyan-400 transition-colors duration-300 underline decoration-cyan-400/30 hover:decoration-cyan-400"
               >Kent Nguyen</a>,
-              a software-developer-turn-tech-entrepreneur,
+              a software-developer-turn-serial-entrepreneur,
               <br />
               started working on the Sand Battery solution in&nbsp;
               <a
