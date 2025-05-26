@@ -46,9 +46,8 @@ const GenesisSection = () => {
           {/* Patent Link */}
           <div className="animate-fade-in animation-delay-400">
             <a 
-              href="https://www.kentnguyen.com/sand-battery-patent-download" 
+              href="https://www.kentnguyen.com/sand-battery-patent-download?utm_source=thermion&utm_medium=99&utm_campaign=debug" 
               target="_blank" 
-              rel="noopener noreferrer"
               className="inline-flex items-center gap-3 bg-gradient-to-br from-gray-800/50 to-gray-900/50 rounded-xl p-4 border border-purple-500/20 backdrop-blur-sm hover:border-purple-500/40 transition-all duration-300 hover:scale-105"
             >
               <img 
