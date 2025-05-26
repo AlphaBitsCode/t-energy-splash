@@ -11,7 +11,8 @@ const ProblemSection = () => {
           </h2>
           <div className="space-y-6 text-lg md:text-xl text-gray-300 leading-relaxed">
             <p>
-              The world grapples with <span className="text-red-400 font-semibold">immense energy costs</span>. 
+              The world grapples with <span className="text-red-400 font-semibold">immense energy costs</span>.
+              <br />
               Traditional methods rely on burning and inefficient processes.
             </p>
             <p>

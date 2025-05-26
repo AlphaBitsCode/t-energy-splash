@@ -15,7 +15,7 @@ const SolutionSection = () => {
           <div className="space-y-6 text-gray-300 animate-fade-in animation-delay-200">
             <p className="text-lg md:text-xl leading-relaxed">
               What if energy wasn't just <em className="text-white font-semibold">consumed</em>, 
-              but <em className="text-cyan-400 font-semibold">stored</em>?
+              but <em className="text-cyan-400 font-semibold">stored</em> ?
             </p>
             <p className="text-lg md:text-xl leading-relaxed">
               Stored not in volatile fuels, but in <span className="text-blue-400 font-semibold">silent, passive forms</span>.
