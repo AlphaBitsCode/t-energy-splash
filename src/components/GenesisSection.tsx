@@ -33,7 +33,7 @@ const GenesisSection = () => {
           <div className="mb-8 animate-fade-in animation-delay-200">
             <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 rounded-2xl p-6 border border-cyan-500/20 backdrop-blur-sm inline-block">
               <img 
-                src="/lovable-uploads/c2014a9e-8370-4e28-86f5-28ac6488b11d.png" 
+                src="https://blog.kentnguyen.com/content/images/size/w1200/2025/05/IMG_20250523_151253-1.jpg" 
                 alt="Sand Battery & ICE Battery first prototypes" 
                 className="w-full max-w-md mx-auto rounded-lg shadow-2xl"
               />
